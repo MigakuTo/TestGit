@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+.menu{
+	background-color: #FAFAFA;
+	border: 1px solid;
+	text-align: center;
+	border-radius: 5px;
+	position: relative;
+	top: 10%;
+	left: 10%;
+	
+}
+
+.flex{
+	width: 80%;
+	height: 25%;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
+
+.box{
+	width: 100%;
+	
+}
+
+.button{
+	width: 70%;
+	height: 50%;
+	position: relative;
+    top: 30%;
+	border: 1px solid;
+	border-radius: 10px;
+	font-size: 145%;
+	background-color: #FFFFEA;
+}
+
+.title{
+	margin: 1.5%;
+}
+
+#header{
+	width: 100%;
+	border-bottom: 1px solid;
+}

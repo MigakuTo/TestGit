@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+.content {
+	position: relative;
+	top: 5%;
+	background-color: #FAFAFA;
+	border: 1px solid;
+	height: 65%;
+	width: 80%;
+	margin: 0 auto;
+	overflow-y: scroll;
+}
+
+.tabl {
+	position: relative;
+	top: 7%;
+	border: solid 2px;
+	border-collapse: collapse;
+	width: 90%;
+	margin: 0 auto;
+	height: 45%;
+}
+
+th,
+td {
+	border: solid 2px;
+}
+
+.title {
+	margin: 1.5%;
+}
+
+#header {
+	width: 100%;
+	border-bottom: 1px solid;
+}
+
+#back {
+	position: absolute;
+	right: 10%;
+	bottom: 5%;
+}
+
+.button-back {
+	height: 35px;
+	border: solid 1px;
+	border-radius: 5px;
+}
+
+#change{
+	position: absolute;
+	left: 10%;
+	bottom: 5%;
+}
